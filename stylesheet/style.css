@@ -46,13 +46,13 @@
 
 
 a:link, a:visited { 
-    color: (internal value);
+    /*color: (internal value);*/
     text-decoration: none;
     cursor: auto;
 }
 
 a:link:active, a:visited:active { 
-    color: (internal value);
+    /*color: (internal value);*/
 }
 
 .footer {
