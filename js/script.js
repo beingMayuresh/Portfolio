@@ -35,4 +35,22 @@ $(document).ready(function() {
             }
         }
     });
+
+    $("#test0").addClass("animated bounceInLeft");
+     $("#test1").addClass("animated bounceInRight");
+      $("#test2").addClass("animated bounceInLeft");
+       $("#test3").addClass("animated bounceInRight");
+        $("#test4").addClass("animated bounceInLeft");
+         $("#test5").addClass("animated bounceInRight");
+         $("#test6").addClass("animated bounceInLeft");
+
 });
+
+
+
+
+
+    
+
+
+
