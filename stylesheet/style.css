@@ -83,3 +83,7 @@ iframe {
 .anchor-volunteer {
   text-decoration: none;
 }
+
+.img-center {
+  margin: auto;
+}
