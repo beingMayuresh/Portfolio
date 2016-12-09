@@ -17,7 +17,7 @@
   }
 
   .desc {
-  	color: white;
+  	color: #fff;
   	/*font-family: Dancing Script;*/
   }
 
@@ -91,4 +91,9 @@ iframe {
 #sp-contact {
   color: white;
  
+}
+
+#col-btn {
+ 
+  background-color #E2F469: 
 }
