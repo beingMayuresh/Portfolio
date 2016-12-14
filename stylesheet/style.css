@@ -41,7 +41,7 @@
  }
 
 #nav-color {
-  background-color: #3a391f;
+  background-color: #1a1a1a;
 }
 
 
@@ -65,7 +65,7 @@ a:link:active, a:visited:active {
 }
 
 #strong {
-  color: #318ce7;
+  color: white;
 }
 
 iframe {
@@ -95,5 +95,9 @@ iframe {
 
 #col-btn {
  
-  background-color #E2F469: 
+  background-color: #E2F469;
+}
+
+#recom-sty {
+  color: white;
 }
